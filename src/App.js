@@ -17,9 +17,17 @@ function App() {
         >
           Learn React
         </a>
+        <a
+          className="App-link"
+          href="jeux.js"
+          target="_blank"
+          rel="noopener noreferrer"
+        >mon super</a>
+        
       </header>
     </div>
   );
 }
+
 
 export default App;
